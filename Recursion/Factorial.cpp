@@ -13,6 +13,6 @@ int sum(int n)
 }
 int main()
 {
-    int ans=sum(0);
+    int ans=sum(3);
      cout<<"The answer is= "<<ans<<endl;
 }
